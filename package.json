@@ -42,7 +42,7 @@
     "onView:PowerShellCommands"
   ],
   "dependencies": {
-    "node-fetch": "~3.1.0",
+    "node-fetch": "~3.3.0",
     "semver": "~7.3.5",
     "uuid": "~8.3.2",
     "vscode-extension-telemetry": "~0.4.5",
@@ -54,7 +54,7 @@
     "@types/mocha": "~9.0.0",
     "@types/mock-fs": "~4.13.1",
     "@types/node": "~17.0.8",
-    "@types/node-fetch": "~3.0.3",
+    "@types/node-fetch": "~3.0.2",
     "@types/rewire": "~2.5.28",
     "@types/semver": "~7.3.9",
     "@types/sinon": "~10.0.6",
